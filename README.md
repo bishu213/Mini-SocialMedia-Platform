@@ -1,1 +1,1 @@
-# CodeAlpha_Social-Media-Platform
+# Mini SocialMedia Platform
